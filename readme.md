@@ -7,6 +7,7 @@
 #### Estudiantes
 
 - José Bernardo Barquero Bonilla (2023150476)
+- Diego Alonso Elizondo Mendoza (20233138264)
 
 #### Profesor
 
